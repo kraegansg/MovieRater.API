@@ -1,6 +1,36 @@
-USER STORIES: 
+APP NAME - Movie Rater
+DESCRIPTION - 	Rate films, TV shows, and possibly more. Content can inherit from a base class 
 
+
+MVP: Building an API that permits user to add a rating to a TV show or film, then edit, delete or view all ratings.
+STRETCH GOALS: Build in a user / admin log in function, add different access points between user and admin 
+
+USER STORIES: 
+- As user, I need to be able to add a rating to a TV show 
+- As user, I need to be able to add a rating to a film 
+- As user, I need to be able to add a TV show to a list 
+- As user, I need to be able to add a film to a list 
+- As user, I need to be able to delete a film from a list 
+- As user, I need to be able to delete a TV show from a list 
+- As user, I need to be able to edit the rating of a film 
+- As user, I need to be able to edit the rating of a TV show 
+- As user, I need to be able to view all current TV show ratings
+- As user, I need to be able to view all current film ratings 
 
 
 TICKETS: 
+- Create method to add rating to a TV show 
+- Create method to add rating to a film 
+- Create method to view all TV show ratings
+- Create method to view all film ratings 
+- Create method to delete TV show ratings 
+- Create method to delete film ratings 
+- Create method to update TV show ratings
+- Create method to update film ratings 
+- Test functionality using Postman 
+- 
+
+
+SPRINT: 
+
 
