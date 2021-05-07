@@ -9,7 +9,7 @@ namespace MovieRater.Data
 {
     public class Ratings
     {
-        public bool IsReccommended { get; set; }
+        public bool IsRecommended { get; set; }
         public bool IsFamilyFriendly { get; set; }
 
         [Required]
