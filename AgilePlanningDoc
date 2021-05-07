@@ -30,7 +30,7 @@ TICKETS:
 - Create method to update TV show ratings  - 2
 - Create method to update film ratings  - 2
 - Test functionality using Postman  - 3
-- Create Controller layers - 1
+- Create Controller layers - 1 (Completed by Kraegan. 5/7/21).
 - Create Model layers - 1 (Completed by Danny. 5/6/21).
 - Create Data layers - 1 (Completed by Greg. 5/6/21).
 - Create Service layers - 1 (Completed by Charles. 5/7/21).
