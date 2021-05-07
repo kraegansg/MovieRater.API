@@ -54,7 +54,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FilmCreate.cs" />
+    <Compile Include="FilmDetail.cs" />
+    <Compile Include="FilmEdit.cs" />
+    <Compile Include="FilmListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RatingCreate.cs" />
+    <Compile Include="RatingDetail.cs" />
+    <Compile Include="RatingEdit.cs" />
+    <Compile Include="RatingListItem.cs" />
+    <Compile Include="TVCreate.cs" />
+    <Compile Include="TVDetail.cs" />
+    <Compile Include="TVEdit.cs" />
+    <Compile Include="TVListItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
